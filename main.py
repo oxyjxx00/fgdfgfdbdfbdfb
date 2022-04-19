@@ -342,4 +342,4 @@ async def инфо(ctx, member: discord.Member = None):
 def setup(bot):
     bot.add_cog(Event(boy))
     
-bot.run('OTU0ODIyNDE1OTE2MTA1NzU4.YjYtqw.gZqw2UxSkox_JCDVSB8gvVvQ9No')
+bot.run('OTU0ODIyNDE1OTE2MTA1NzU4.YjYtqw.IBN2DunSelp-qpSNEh7iPO9TOgI')
